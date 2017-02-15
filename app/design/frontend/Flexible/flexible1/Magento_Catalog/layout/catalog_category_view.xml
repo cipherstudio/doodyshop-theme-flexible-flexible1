@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="2columns-left" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="col.left">
+			<!-- <block class="Magento\Cms\Block\Block" name="banner_left">
+				<arguments>
+					<argument name="block_id" xsi:type="string">banner_left</argument>
+				</arguments>
+			</block> -->
+			
+		</referenceContainer>
+		<move element="category.image" destination="col.main" after="page.main.title"/>
+    </body>
+</page>

@@ -1,0 +1,92 @@
+
+<div class="free_shipping_home1">
+	<div class="container">
+		<?php  echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('free_shipping_home1')->toHtml(); ?>
+	</div>
+</div>
+
+<div class="inner-productslider">
+	<div class="container">
+		<?php echo $block->getLayout()->createBlock('Plazathemes\Producttab\Block\Producttab')->setTemplate('producttab.phtml')->toHtml();?>
+	</div>	
+</div>
+<div class="times-gruod">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9 col-sm-12 col-xs-12">
+				<?php echo $block->getLayout()->createBlock('Plazathemes\Pricecountdown\Block\Pricecountdown')->setTemplate('saleslider.phtml')->toHtml();?> 
+			</div>
+			<div class="col-md-3 col-sm-12 col-xs-12">
+				<div class="right-times1">
+					<?php  echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('banner_right_home1')->toHtml(); ?>
+				</div>	
+			</div>
+		</div>
+	</div>	
+</div>
+<div class="block-gruod">
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-md-9 col-sm-12 col-xs-12">
+				
+				<div class="static-between">
+					<?php  echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('static_home2')->toHtml(); ?>
+				</div>
+				
+				<div class="bottom-block">
+						<?php echo $block->getLayout()->createBlock('Plazathemes\Newproductslider\Block\Newproductslider')->setTemplate('newproductslider.phtml')->toHtml();?> 	
+				</div>
+					
+			</div>
+			<div class="col-md-3 col-sm-12 col-xs-12">				
+				<?php echo $block->getLayout()->createBlock('Plazathemes\Saleproductslider\Block\Saleproductslider')->setTemplate('saleproductslider.phtml')->toHtml();?> 
+
+				<?php  echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('right_home_home2')->toHtml(); ?>
+
+				<?php echo $block->getLayout()->createBlock('Plazathemes\Recentproductslider\Block\Products')->setTemplate('productslider.phtml')->toHtml();?>			
+				
+			</div>
+		</div>
+		
+	</div>
+</div>
+<div class="static-home2">
+	<div class="container">
+		<?php  echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('banner_home2')->toHtml(); ?>
+	</div>
+</div>
+<div class="static-home2 bestseller">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-sm-12 col-xs-12">
+				<?php echo $block->getLayout()->createBlock('Plazathemes\Bestsellerproduct\Block\Bestsellerproduct')->setTemplate('bestsellerproduct.phtml')->toHtml();?>	
+			</div>
+			
+			<div class="col-md-6 col-sm-12 col-xs-12">
+				<?php echo $block->getLayout()->createBlock('Plazathemes\Randomproductslider\Block\Products')->setTemplate('productslider.phtml')->toHtml();?>	
+			</div>
+			
+		</div>
+	</div>
+</div>
+<div class="conten-blog">
+	<div class="container">
+		<?php echo $block->getLayout()->createBlock('Plazathemes\Blog\Block\Sidebar\Recent')->setTemplate('sidebar/slider.phtml')->toHtml();?>	
+	</div>
+</div>
+
+<div class="Newsletter">
+	<div class="container">
+		<?php echo $block->getLayout()->createBlock('Magento\Newsletter\Block\Subscribe')->setTemplate('subscribe.phtml')->toHtml();?>	
+	</div>
+</div>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>  
+<bannerslider>
+<records>
+	<record> 
+		  <name>2016 <span>Collection </span></name>
+		  <title1>Free Shipping on all products</title1> 
+		  <click_url>#</click_url> 
+		  <image><![CDATA[Plazathemes/bannerslider/images/b/a/banner-home1.jpg]]></image>
+		  <image_alt><![CDATA[Plazathemes/bannerslider/images/b/a/banner-home1.jpg]]></image_alt>
+		  <order>0</order>
+		  <store_id>1</store_id> 
+		  <status>1</status> 
+	</record>
+	<record> 
+		  <name>Jacket Style</name>
+		  <title1>Relaxted</title1> 
+		  <title2>Sale up to 30% off</title2> 
+		  <click_url>#</click_url> 
+		  <image><![CDATA[Plazathemes/bannerslider/images/b/a/banner2-home1.jpg]]></image>
+		  <image_alt><![CDATA[Plazathemes/bannerslider/images/b/a/banner2-home1.jpg]]></image_alt>
+		  <order>0</order>
+		  <store_id>1</store_id> 
+		  <status>1</status> 
+	</record>
+	
+	
+</records>
+</bannerslider>

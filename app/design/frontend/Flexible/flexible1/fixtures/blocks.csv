@@ -1,0 +1,168 @@
+title,identifier,content,is_active
+Footer Static,footer_static,"<div class=""footer-static"" data-mage-init=""{&quot;accordion&quot;:{&quot;openedState&quot;: &quot;active&quot;, &quot;collapsible&quot;: true, &quot;active&quot;: false, &quot;multipleCollapsible&quot;: false}}"">
+					<div class=""footer-item"">
+					<div class=""row"">
+					<div class=""bos1 bos f-col f-col4 col-sm-12 col-md-3 col-sms-12 col-smb-12"" data-role=""collapsible"">
+					<div class=""footer-static-title"" data-role=""title"">
+					<h3>Flexible</h3>
+					</div>
+					<div class=""footer-static-content"" data-role=""content"">
+					<div class=""footer-contact"">
+					<ul>
+					<li class=""first""><a href=""#"">Shipping Policy</a></li>
+					<li><a href=""#"">Compensation First</a></li>
+					<li><a href=""#"">Shipping Policy</a></li>
+					<li><a href=""#"">Return Policy</a></li>
+					<li><a href=""#"">Gift Vouchers</a></li>
+					<li><a href=""#"">Shipping Options</a></li>
+					</ul>
+					</div>
+					</div>
+					</div>
+					<div class=""bos2 bos  f-col f-col4 col-sm-6 col-md-3 col-sms-12 col-smb-12"" data-role=""collapsible"">
+					<div class=""footer-static-title"" data-role=""title"">
+					<h3>Products</h3>
+					</div>
+					<div class=""footer-static-content"" data-role=""content"">
+					<ul>
+					<li class=""first""><a href=""#"">About us</a></li>
+					<li><a href=""{{store direct_url=""privacy-policy-cookie-restriction-mode""}}"">Privacy Policy</a></li>
+					<li><a href=""{{store direct_url=""sales/order/history/""}}"">Order History</a></li>
+					<li><a href=""#"">Guarantee</a></li>
+					<li><a href=""#"">Buy Gift Card</a></li>
+					<li class=""last""><a href=""{{store direct_url=""catalogsearch/advanced/""}}"">Advanced Search</a></li>
+					</ul>
+					</div>
+					</div>
+					<div class=""bos3 bos f-col f-col4 col-sm-6 col-md-3 col-sms-12 col-smb-12"" data-role=""collapsible"">
+					<div class=""footer-static-title"" data-role=""title"">
+					<h3>Customer Service</h3>
+					</div>
+					<div class=""footer-static-content"" data-role=""content"">
+					<ul>
+					<li class=""first""><a href=""#"">Tracking Your Order</a></li>
+					<li><a href=""#"">Terms &amp; Condition</a></li>
+					<li><a href=""#"">Contact us</a></li>
+					<li><a href=""#"">Manufactureres</a></li>
+					<li><a href=""#"">News &amp; Blog</a></li>
+					<li><a href=""#"">Trending Products</a></li>
+					</ul>
+					</div>
+					</div>
+					<div class=""bos4 bos f-col f-col4 col-sm-6 col-md-3 col-sms-12 col-smb-12"" data-role=""collapsible"">
+					<div class=""footer-static-title"" data-role=""title"">
+					<h3>let's Socialize</h3>
+					</div>
+					<div class=""footer-static-content"" data-role=""content"">
+					<ul class=""link-follow"">
+					<li><a class=""facebook fa fa-facebook"" href=""#""> <span>facebook</span> </a></li>
+					<li><a class=""youtube fa fa-youtube"" href=""#""> <span>youtube </span> </a></li>
+					<li><a class=""twitter fa fa-twitter"" href=""#""> <span>twitter</span> </a></li>
+					<li><a class=""mail fa fa-envelope-o "" href=""#""> <span>mail </span> </a></li>
+					<li class=""first""><a class=""plus fa fa-plus"" href=""#""> <span>plus </span></a></li>
+					</ul>
+					<div class=""Newsletter-footer"">{{block class=""Magento\Newsletter\Block\Subscribe"" name=""form.subscribe"" as=""subscribe"" template=""subscribe.phtml""}}</div>
+					</div>
+					</div>
+					</div>
+					</div>
+					</div>",1
+Footer Payment,footer_payment,"<div class=""footer-payment""><a href=""#""><img src=""{{media url=""wysiwyg/logofa.png""}}"" alt="""" /></a></div>",1
+right st,right_st,"<div class=""right-img"">
+					<div class=""img1""><a href=""#""><img src=""{{media url=""wysiwyg/right-st.jpg""}}"" alt="""" /></a></div>
+					</div>",1
+Contact Map,contact_map,"<p><iframe style=""border: 0;"" src=""https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d774781.4431526576!2d-102.14621326758693!3d40.663171023783335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x8776990919d7f7f9%3A0xc9896e33b10a3c8d!2sRoad+332%2C+Grant%2C+NE+69140%2C+Hoa+K%E1%BB%B3!3m2!1d40.8072002!2d-101.6463716!5e0!3m2!1svi!2s!4v1458726863548"" width=""100%"" height=""550"" frameborder=""0""></iframe></p>",1
+Free Shipping home1,free_shipping_home1,"<div class=""free-shipping st-section "">
+					<div class=""row"">
+					<div class=""col-md-3 col-sm-12 col-xs-12 box box1"">
+					<div class=""box-inner bos1"">
+					<div class=""img""><a href=""#""><img src=""{{media url=""wysiwyg/imgst1-home1.jpg.jpg""}}"" alt="""" /></a></div>
+					</div>
+					</div>
+					<div class=""col-md-6 col-sm-12 col-xs-12 box box2"">
+					<div class=""box-inner bos2"">
+					<div class=""img""><a href=""#""><img src=""{{media url=""wysiwyg/imgst2-home1.jpg.jpg""}}"" alt="""" /></a></div>
+					</div>
+					</div>
+					<div class=""col-md-3 col-sm-12 col-xs-12 box box3"">
+					<div class=""box-inner bos3"">
+					<div class=""img""><a href=""#""><img src=""{{media url=""wysiwyg/imgst3-home1.jpg.jpg""}}"" alt="""" /></a></div>
+					</div>
+					</div>
+					</div>
+					</div>",1
+st home1,st_home1,"<div class=""links-menu"">
+						<ul class=""links"">
+						<li><a href=""{{store url=""blog""}}"">Blog</a></li>
+						<li><a href=""{{store url=""contact""}}"">Contact Us</a></li>
+						<li><a href=""{{store direct_url=""customer-service""}}"">customer Service</a></li>
+						<li><a class=""oder1"" href=""{{store direct_url=""sales/order/history/""}}"">Order status</a></li>
+						</ul>
+						</div>",1
+banner right home1,banner_right_home1,"<div class=""banner-righttimes st-section "">
+					<div class=""box-inner"">
+					<div class=""img""><a href=""#""><img src=""{{media url=""wysiwyg/right-times-home1.jpg""}}"" alt="""" /></a></div>
+					</div>
+					</div>",1
+static home1,static_home1,"<div class=""static-home1 st-section "">
+						<div class=""container"">
+						<div class=""row"">
+						<div class=""col-md-6 col-sm-12 col-xs-12 box box1"">
+						<div class=""box-inner"">
+						<div class=""img""><a href=""#""><img src=""{{media url=""wysiwyg/imgst9-home1.jpg""}}"" alt="""" /></a></div>
+						</div>
+						</div>
+						<div class=""col-md-6 col-sm-12 col-xs-12 box box2"">
+						<div class=""box-inner"">
+						<div class=""img""><a href=""#""><img src=""{{media url=""wysiwyg/imgst10-home1.jpg""}}"" alt="""" /></a></div>
+						</div>
+						</div>
+						</div>
+						</div>
+						</div>",1
+Shipping footer home1,Shipping_footer_home1,"<div class=""free-shipping-home"">
+						<div class=""row"">
+						<div class=""col-md-3 col-sm-12 col-xs-12 box box1"">
+						<div class=""box-inner bos1"">
+						<div class=""truck icon""><a class=""fa fa-truck""><span>auto</span></a></div>
+						<div class=""text"">
+						<h4>Free shipping worldwide</h4>
+						<p>On order over $200</p>
+						</div>
+						</div>
+						</div>
+						<div class=""col-md-3 col-sm-12 col-xs-12 box box2"">
+						<div class=""box-inner bos2"">
+						<div class=""loats icon""><a class=""fa fa-rotate-left""><span>roat</span></a></div>
+						<div class=""text"">
+						<h4>30 days free return</h4>
+						<p>Money back guarantee</p>
+						</div>
+						</div>
+						</div>
+						<div class=""col-md-3 col-sm-12 col-xs-12 box box3"">
+						<div class=""box-inner bos3"">
+						<div class=""like icon""><a class=""fa fa-thumbs-up""><span>thums</span></a></div>
+						<div class=""text"">
+						<h4>Member safe shopping</h4>
+						<p>Safe shopping guarantee</p>
+						</div>
+						</div>
+						</div>
+						<div class=""col-md-3 col-sm-12 col-xs-12 box box4"">
+						<div class=""box-inner bos4"">
+						<div class=""phones icon""><a class=""fa fa-phone""><span>phone</span></a></div>
+						<div class=""text"">
+						<h4>(+1)866-540-3229</h4>
+						<p>Contact with me</p>
+						</div>
+						</div>
+						</div>
+						</div>
+						</div>",1
+banner category home1,banner_category_home1,"<div class=""left-category1 st-section "">
+						<div class=""box-inner"">
+						<div class=""img img1""><a href=""#""><img src=""{{media url=""wysiwyg/left-category1.jpg""}}"" alt="""" /></a></div>
+						<div class=""img img2""><a href=""#""><img src=""{{media url=""wysiwyg/left-category2.jpg""}}"" alt="""" /></a></div>
+						</div>
+						</div>",1

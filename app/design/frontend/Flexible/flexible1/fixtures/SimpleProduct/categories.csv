@@ -1,0 +1,6 @@
+name,url_key,path,active,is_anchor,include_in_menu,position,display_mode,page_layout,custom_layout_update,require_media,image,thumb_nail,thumb_popular
+Category-01,category-01,,1,0,1,6,PAGE,,,1,pub/media/catalog/category/00.jpg,pub/media/catalog/category/01.jpg,pub/media/catalog/category/02.jpg
+"Category-02",category-02,,1,0,1,1,PAGE,,,1,pub/media/catalog/category/03.jpg,pub/media/catalog/category/04.jpg,pub/media/catalog/category/05.jpg
+Category-03,category-03,,0,0,0,,PAGE,,,0,pub/media/catalog/category/06.jpg,pub/media/catalog/category/07.jpg,pub/media/catalog/category/08.jpg
+"Category-03-01",category-03-01,Category-03,1,0,0,,PAGE,1column,,0,pub/media/catalog/category/09.jpg,pub/media/catalog/category/10.jpg,pub/media/catalog/category/11.jpg
+"Category-03-02",category-03-02,Category-03,1,0,0,,PAGE,1column,,0,pub/media/catalog/category/20.jpg,pub/media/catalog/category/21.jpg,pub/media/catalog/category/22.jpg

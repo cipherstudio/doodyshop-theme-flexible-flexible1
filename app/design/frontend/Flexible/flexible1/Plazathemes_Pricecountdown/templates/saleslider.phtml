@@ -149,7 +149,7 @@
 								<div class="Countdown-item">
 									<?php if($use_countdown): ?>
 										<?php if($_product->getShowCountdown() == 1): ?>
-											<div class="countbox-<?php echo $_product->getId(); ?> countdown-container">
+											<div id="countbox-<?php echo $_product->getId(); ?>" class="countbox-<?php echo $_product->getId(); ?> countdown-container">
 												<div class='datetime'>
 													<span class='day'><?php // echo __('D') ?></span>
 													<span class='hour'><?php // echo __('H') ?></span>
@@ -157,6 +157,8 @@
 													<span class='sec'><?php // echo __('S') ?></span>
 												</div>
 											</div>
+											<div id="caption<?php echo $_product->getId(); ?>" style="display:none"></div>
+											<div id="heading<?php echo $_product->getId(); ?>" style="display:none"></div>
 										<?php endif; ?>
 									<?php endif; ?>
 								</div>

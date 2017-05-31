@@ -1,6 +1,0 @@
-name,url_key,path,active,is_anchor,include_in_menu,position,display_mode,page_layout,custom_layout_update,require_media,image,thumb_nail,thumb_popular
-Sale,sale,,1,0,1,6,PAGE,,,1,pub/media/catalog/category/00.jpg,pub/media/catalog/category/01.jpg,pub/media/catalog/category/02.jpg
-"What's New",what-is-new,,1,0,1,1,PAGE,,,1,pub/media/catalog/category/03.jpg,pub/media/catalog/category/04.jpg,pub/media/catalog/category/05.jpg
-Collections,collections,,0,0,0,,PAGE,,,0,pub/media/catalog/category/06.jpg,pub/media/catalog/category/07.jpg,pub/media/catalog/category/08.jpg
-"Performance Sportswear New",performance-new,Collections,1,0,0,,PAGE,1column,,0,pub/media/catalog/category/09.jpg,pub/media/catalog/category/10.jpg,pub/media/catalog/category/11.jpg
-"Eco Collection New",eco-new,Collections,1,0,0,,PAGE,1column,,0,pub/media/catalog/category/20.jpg,pub/media/catalog/category/21.jpg,pub/media/catalog/category/22.jpg

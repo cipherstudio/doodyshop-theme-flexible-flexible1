@@ -1,0 +1,15 @@
+name,value
+head_default_title,Doody Shop
+head_title_prefix,
+head_title_suffix,
+head_default_description,Doody Shop Description
+head_default_keywords,"Magento, Varien, E-commerce (Edit)"
+head_includes,
+head_demonotice,0
+header_logo_src,/pub/media/theme/logo.png
+header_logo_width,
+header_logo_height,
+header_logo_alt,Doody Shop
+header_welcome,Default welcome msg! (Edit)
+footer_absolute_footer,
+footer_copyright,"Copyright © 2017 Doody Shop, Inc. All rights reserved."
